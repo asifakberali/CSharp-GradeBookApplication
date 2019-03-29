@@ -5,11 +5,7 @@
         Standard,
         Ranked,
         ESNU,
-        OnePoint,
-        TwoPoint,
-        ThreePoint,
-        FourPoint,
-        FivePoint,
+        OneToFour,
         SixPoint
     }
 }
